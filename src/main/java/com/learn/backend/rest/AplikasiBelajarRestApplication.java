@@ -1,4 +1,4 @@
-package com.learn.ui.rest.aplikasibelajarrest;
+package com.learn.backend.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
